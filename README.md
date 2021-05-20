@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+Check the [live demo](https://linked-in-clone-react.herokuapp.com/)
+
 #### To run the project run the following commands "for development"
  ```sh
 git clone https://github.com/mariazayed/linkedin-clone-reactjs.git

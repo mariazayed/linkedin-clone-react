@@ -30,7 +30,7 @@ function Feed() {
 				}
 			)))
 		})
-	}, [])
+	})
 
 	const sendPost = e => {
 		e.preventDefault();
